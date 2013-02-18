@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "EasyKanban",
+  "description": "EasyKanban is a fun, easy and inspiring tool as traditional Kanban. ",
+  "version": "0.1",
+  "app": {
+    "launch": {
+      "web_url": "http://www.easykanban.com/"
+    }
+  },
+  "icons": {
+    "128": "logo_ext.png"
+  }
+}
